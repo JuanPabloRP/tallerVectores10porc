@@ -63,7 +63,7 @@ namespace TallerVector
 
 
 
-                } while ((!(int.TryParse(dato, out op))) || (op < 1 || op > 7));
+                } while ((!(int.TryParse(dato, out op))) || (op < 1 || op > 5));
             
         }
 
